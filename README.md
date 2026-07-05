@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manoj Hariharan</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2EBFA5,100:0D1117&height=180&section=header&text=Manoj%20Hariharan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Full%20Stack%20%7C%20IoT%20Engineer&descAlignY=58&descSize=18" />
 <h3 align="center">AI & Data Science Undergraduate | Full Stack Developer | IoT & Embedded Systems</h3>
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -13,6 +13,13 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=ManojHariharanT&style=for-the-badge&color=2EBFA5" alt="profile views" />
+</p>
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#️-tech-stack">Tech Stack</a> •
+  <a href="#-current--featured-projects">Projects</a> •
+  <a href="#-github-stats">Stats</a> •
+  <a href="#-lets-connect">Connect</a>
 </p>
 
 🚀 About Me
@@ -103,6 +110,34 @@ Responsive e-commerce platform for optical products with full catalog and order 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManojHariharanT&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
+🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ManojHariharanT&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+</p>
+
+🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ManojHariharanT/ManojHariharanT/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
+
+💡 This animates automatically once you add the platane/snk GitHub Action to this repo (generates the snake from your contribution graph). Until then, this line will just show a broken image — see setup note below.
+
+
+
+
+📬 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/manoj-hariharan-0620a6327" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:manojhariharan957@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 <p align="center">
   <i>⚡ Quick learner, cross-functional builder — from firmware to full-stack to ML pipelines.</i>
 </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2EBFA5&height=100&section=footer" />
