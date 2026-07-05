@@ -121,14 +121,6 @@ Responsive e-commerce platform for optical products with full catalog and order 
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://trophy.genta.dev/?username=ManojHariharanT&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
