@@ -112,22 +112,8 @@ Responsive e-commerce platform for optical products with full catalog and order 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojHariharanT&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManojHariharanT&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ManojHariharanT/ManojHariharanT/output/github-contribution-grid-snake.svg" width="100%" />
-</p>
-
-> 💡 This animates automatically once you add the **[platane/snk](https://github.com/Platane/snk)** GitHub Action to this repo (generates the snake from your contribution graph). Until then, this line will just show a broken image — see setup note below.
 
 ---
 
